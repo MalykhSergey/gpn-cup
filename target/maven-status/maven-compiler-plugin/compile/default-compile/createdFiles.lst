@@ -1,0 +1,15 @@
+com\example\gpn\GpnApplication.class
+com\example\gpn\ActionService.class
+com\example\gpn\Nums.class
+com\example\gpn\Configuration.class
+com\example\gpn\wsdl\Divide.class
+com\example\gpn\wsdl\package-info.class
+com\example\gpn\ActionController.class
+com\example\gpn\wsdl\AddResponse.class
+com\example\gpn\wsdl\Add.class
+com\example\gpn\wsdl\MultiplyResponse.class
+com\example\gpn\wsdl\Subtract.class
+com\example\gpn\wsdl\Multiply.class
+com\example\gpn\wsdl\DivideResponse.class
+com\example\gpn\wsdl\ObjectFactory.class
+com\example\gpn\wsdl\SubtractResponse.class
